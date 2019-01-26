@@ -1,0 +1,44 @@
+version: 2
+
+jobs:
+  typescript-tests:
+    working_directory: ~/cracking-the-coding-interview-typescript
+    docker:
+      - image: circleci/node:8
+    steps:
+      - checkout
+
+      - restore_cache:
+          key: node-v1-{{ checksum "package-lock.json" }}-{{ arch }}
+
+      - run:
+          name: Installing Node Dependencies
+          command: npm install
+
+      - save_cache:
+          key: node-v1-{{ checksum "package-lock.json" }}-{{ arch }}
+          paths:
+            - node_modules
+
+      - run:
+          name: Pre-test - Checking Types
+          command: npm run pretest:typecheck
+
+      - run:
+          name: Pre-test - Linting
+          command: npm run pretest:lint
+
+      - run:
+          name: Test - Unit Tests
+          command: npm run test:jest
+
+      - persist_to_workspace:
+          root: ~/cracking-the-coding-interview-typescript
+          paths:
+            - node_modules
+
+workflows:
+  version: 2
+  ctci-tests:
+    jobs:
+      - typescript-tests

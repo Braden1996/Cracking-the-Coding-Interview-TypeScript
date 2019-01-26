@@ -1,0 +1,45 @@
+{
+  "name": "ctci-typescript",
+  "main": "index.js",
+  "bugs": {
+    "url": "https://github.com/Braden1996/Cracking-the-Coding-Interview-TypeScript/issues"
+  },
+  "author": "Braden Marshall <braden1996@hotmail.co.uk> (https://github.com/Braden1996)",
+  "version": "1.0.0",
+  "scripts": {
+    "test:jest": "jest",
+    "test": "run-s test:**",
+    "pretest:typecheck": "tsc -p .",
+    "pretest:lint": "tslint -t stylish --project .",
+    "pretest": "run-s pretest:**"
+  },
+  "license": "MIT",
+  "keywords": [
+    "typescript",
+    "interview",
+    "tested",
+    "algorithms"
+  ],
+  "homepage": "https://Braden1996.github.io/Cracking-the-Coding-Interview-TypeScript",
+  "repository": {
+    "url": "git+https://github.com/Braden1996/Cracking-the-Coding-Interview-TypeScript.git",
+    "type": "git"
+  },
+  "description": "",
+  "devDependencies": {
+    "@types/jest": "^23.3.13",
+    "@types/jest-each": "^0.3.3",
+    "jest": "^23.6.0",
+    "jest-each": "^24.0.0",
+    "npm-run-all": "^4.1.5",
+    "prettier": "^1.16.1",
+    "ts-jest": "^23.10.5",
+    "tslint": "^5.12.1",
+    "tslint-config-prettier": "^1.17.0",
+    "tslint-plugin-prettier": "^2.0.1",
+    "typescript": "^3.2.4"
+  },
+  "dependencies": {
+    "@types/node": "^10.12.18"
+  }
+}
