@@ -34,17 +34,17 @@
 
 ## List of Coding Questions 🗂
 
-| Chapter 1                       | Chapter 2                   | Chapter 3                 |
-| ------------------------------- | --------------------------- | ------------------------- |
-| ❌ 1.1 - Is Unique              | ❌ 2.1 - Remove Dups        | ❌ 3.1 - Three in One     |
-| ❌ 1.2 - Check Permutation      | ❌ 2.2 - Return Kth to Last | ❌ 3.2 - Stack Min        |
-| ❌ 1.3 - URLify                 | ❌ 2.3 - Delete Middle Node | ❌ 3.3 - Stack of Plates  |
-| ❌ 1.4 - Palindrome Permutation | ❌ 2.4 - Partition          | ❌ 3.4 - Queue via Stacks |
-| ❌ 1.5 - One Away               | ❌ 2.5 - Sum Lists          | ❌ 3.5 - Sort Stack       |
-| ❌ 1.6 - String Compression     | ❌ 2.6 - Palindrome         | ❌ 3.6 - Animal Shelter   |
-| ❌ 1.7 - Rotate Matrix          | ❌ 2.7 - Intersection       |                           |
-| ❌ 1.8 - Zero Matrix            | ❌ 2.8 - Loop Detection     |                           |
-| ❌ 1.9 - String Rotation        |                             |                           |
+| Chapter 1                                                            | Chapter 2                   | Chapter 3                 |
+| -------------------------------------------------------------------- | --------------------------- | ------------------------- |
+| ✅ [1.1 - Is Unique](src/chapter01_arrays-and-strings/1.1_is-unique) | ❌ 2.1 - Remove Dups        | ❌ 3.1 - Three in One     |
+| ❌ 1.2 - Check Permutation                                           | ❌ 2.2 - Return Kth to Last | ❌ 3.2 - Stack Min        |
+| ❌ 1.3 - URLify                                                      | ❌ 2.3 - Delete Middle Node | ❌ 3.3 - Stack of Plates  |
+| ❌ 1.4 - Palindrome Permutation                                      | ❌ 2.4 - Partition          | ❌ 3.4 - Queue via Stacks |
+| ❌ 1.5 - One Away                                                    | ❌ 2.5 - Sum Lists          | ❌ 3.5 - Sort Stack       |
+| ❌ 1.6 - String Compression                                          | ❌ 2.6 - Palindrome         | ❌ 3.6 - Animal Shelter   |
+| ❌ 1.7 - Rotate Matrix                                               | ❌ 2.7 - Intersection       |                           |
+| ❌ 1.8 - Zero Matrix                                                 | ❌ 2.8 - Loop Detection     |                           |
+| ❌ 1.9 - String Rotation                                             |                             |                           |  |
 
 | Chapter 4                      | Chapter 5                 | Chapter 6                     |
 | ------------------------------ | ------------------------- | ----------------------------- |
