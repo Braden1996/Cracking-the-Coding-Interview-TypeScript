@@ -34,17 +34,17 @@
 
 ## List of Coding Questions 🗂
 
-| Chapter 1                                                                                      | Chapter 2                                                          | Chapter 3                 |
-| ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------ | ------------------------- |
-| ✅ [1.1 - Is Unique](src/chapter01_arrays-and-strings/1.1_is-unique)                           | ✅ [2.1 - Remove Dups](src/chapter02_linked-lists/2.1_remove-dups) | ❌ 3.1 - Three in One     |
-| ✅ [1.2 - Check Permutation](src/chapter01_arrays-and-strings/1.2_check-permutation)           | ❌ 2.2 - Return Kth to Last                                        | ❌ 3.2 - Stack Min        |
-| ✅ [1.3 - URLify](src/chapter01_arrays-and-strings/1.3_urlify)                                 | ❌ 2.3 - Delete Middle Node                                        | ❌ 3.3 - Stack of Plates  |
-| ✅ [1.4 - Palindrome Permutation](src/chapter01_arrays-and-strings/1.4_palindrome_permutation) | ❌ 2.4 - Partition                                                 | ❌ 3.4 - Queue via Stacks |
-| ✅ [1.5 - One Away](src/chapter01_arrays-and-strings/1.5_one-away)                             | ❌ 2.5 - Sum Lists                                                 | ❌ 3.5 - Sort Stack       |
-| ✅ [1.6 - String Compression](src/chapter01_arrays-and-strings/1.6_string-compression)         | ❌ 2.6 - Palindrome                                                | ❌ 3.6 - Animal Shelter   |
-| ✅ [1.7 - Rotate Matrix](src/chapter01_arrays-and-strings/1.7_rotate-matrix)                   | ❌ 2.7 - Intersection                                              |                           |
-| ✅ [1.8 - Zero Matrix](src/chapter01_arrays-and-strings/1.8_zero-matrix)                       | ❌ 2.8 - Loop Detection                                            |                           |
-| ✅ [1.9 - String Rotation](src/chapter01_arrays-and-strings/1.9_string-rotation)               |                                                                    |                           |
+| Chapter 1                                                                                      | Chapter 2                                                                        | Chapter 3                 |
+| ---------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------- | ------------------------- |
+| ✅ [1.1 - Is Unique](src/chapter01_arrays-and-strings/1.1_is-unique)                           | ✅ [2.1 - Remove Dups](src/chapter02_linked-lists/2.1_remove-dups)               | ❌ 3.1 - Three in One     |
+| ✅ [1.2 - Check Permutation](src/chapter01_arrays-and-strings/1.2_check-permutation)           | ✅ [2.2 - Return Kth to Last](src/chapter02_linked-lists/2.2_return-kth-to-last) | ❌ 3.2 - Stack Min        |
+| ✅ [1.3 - URLify](src/chapter01_arrays-and-strings/1.3_urlify)                                 | ❌ 2.3 - Delete Middle Node                                                      | ❌ 3.3 - Stack of Plates  |
+| ✅ [1.4 - Palindrome Permutation](src/chapter01_arrays-and-strings/1.4_palindrome_permutation) | ❌ 2.4 - Partition                                                               | ❌ 3.4 - Queue via Stacks |
+| ✅ [1.5 - One Away](src/chapter01_arrays-and-strings/1.5_one-away)                             | ❌ 2.5 - Sum Lists                                                               | ❌ 3.5 - Sort Stack       |
+| ✅ [1.6 - String Compression](src/chapter01_arrays-and-strings/1.6_string-compression)         | ❌ 2.6 - Palindrome                                                              | ❌ 3.6 - Animal Shelter   |
+| ✅ [1.7 - Rotate Matrix](src/chapter01_arrays-and-strings/1.7_rotate-matrix)                   | ❌ 2.7 - Intersection                                                            |                           |
+| ✅ [1.8 - Zero Matrix](src/chapter01_arrays-and-strings/1.8_zero-matrix)                       | ❌ 2.8 - Loop Detection                                                          |                           |
+| ✅ [1.9 - String Rotation](src/chapter01_arrays-and-strings/1.9_string-rotation)               |                                                                                  |                           |
 
 | Chapter 4                      | Chapter 5                 | Chapter 6                     |
 | ------------------------------ | ------------------------- | ----------------------------- |
