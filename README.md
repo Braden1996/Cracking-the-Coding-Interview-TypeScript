@@ -45,6 +45,7 @@
 | ✅ [1.7 - Rotate Matrix](src/chapter01_arrays-and-strings/1.7_rotate-matrix)                   | ❌ 2.7 - Intersection                                                            |                           |
 | ✅ [1.8 - Zero Matrix](src/chapter01_arrays-and-strings/1.8_zero-matrix)                       | ❌ 2.8 - Loop Detection                                                          |                           |
 | ✅ [1.9 - String Rotation](src/chapter01_arrays-and-strings/1.9_string-rotation)               |                                                                                  |                           |
+| <img width="326" />                                                                            | <img width="326" />                                                              | <img width="326" />       |
 
 | Chapter 4                      | Chapter 5                 | Chapter 6                     |
 | ------------------------------ | ------------------------- | ----------------------------- |
@@ -60,6 +61,7 @@
 | ❌ 4.10 - Check Subtree        |                           | ❌ 6.10 - Poison              |
 | ❌ 4.11 - Random Node          |                           |                               |
 | ❌ 4.12 - Paths with Sum       |                           |                               |
+| <img width="326" />            | <img width="326" />       | <img width="326" />           |
 
 | Chapter 7                   | Chapter 8                          | Chapter 9                           |
 | --------------------------- | ---------------------------------- | ----------------------------------- |
@@ -77,9 +79,10 @@
 | ❌ 7.12 - Hash Table        | ❌ 8.12 - Eight Queens             |                                     |
 | ❌ 7.11 - File System       | ❌ 8.13 - Stack Boxes              |                                     |
 | ❌ 7.12 - Hash Table        | ❌ 8.14 - Boolean Eval             |                                     |
+| <img width="326" />         | <img width="326" />                | <img width="326" />                 |
 
-| Chapter 10                        |
-| --------------------------------- |
+| Chapter 10                        |                     |                     |
+| --------------------------------- | ------------------- | ------------------- |
 | ❌ 10.1 - Sorted Merge            |
 | ❌ 10.2 - Group Anagrams          |
 | ❌ 10.3 - Search In Rotated Array |
@@ -91,3 +94,4 @@
 | ❌ 10.9 - Sorted Matrix Search    |
 | ❌ 10.10 - Rank From Stream       |
 | ❌ 10.11 - Peaks And Valleys      |
+| <img width="326" />               | <img width="326" /> | <img width="326" /> |
