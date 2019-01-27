@@ -42,7 +42,7 @@
 | ✅ [1.4 - Palindrome Permutation](src/chapter01_arrays-and-strings/1.4_palindrome_permutation) | ❌ 2.4 - Partition          | ❌ 3.4 - Queue via Stacks |
 | ✅ [1.5 - One Away](src/chapter01_arrays-and-strings/1.5_one-away)                             | ❌ 2.5 - Sum Lists          | ❌ 3.5 - Sort Stack       |
 | ✅ [1.6 - String Compression](src/chapter01_arrays-and-strings/1.6_string-compression)         | ❌ 2.6 - Palindrome         | ❌ 3.6 - Animal Shelter   |
-| ❌ 1.7 - Rotate Matrix                                                                         | ❌ 2.7 - Intersection       |                           |
+| ✅ [1.7 - Rotate Matrix](src/chapter01_arrays-and-strings/1.7_rotate-matrix)                   | ❌ 2.7 - Intersection       |                           |
 | ❌ 1.8 - Zero Matrix                                                                           | ❌ 2.8 - Loop Detection     |                           |
 | ❌ 1.9 - String Rotation                                                                       |                             |                           |
 
