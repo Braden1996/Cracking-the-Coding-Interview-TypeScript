@@ -1,6 +1,15 @@
 import LinkedList from './LinkedList';
 
-export default class Stack<T> {
+export interface IStack<T> {
+  toArray: () => T[];
+  toString: () => string;
+  push: (data: T) => void;
+  pop: () => T | null;
+  peek: () => T | null;
+  isEmpty: () => boolean;
+}
+
+export default class Stack<T> implements IStack<T> {
   static fromArray<T>(dataArr: T[]) {
     const stack = new Stack<T>();
     dataArr.forEach(d => stack.push(d));
