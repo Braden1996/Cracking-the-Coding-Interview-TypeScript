@@ -1,4 +1,4 @@
-import LinkedList from '../utils/LinkedList';
+import LinkedList from '@utils/LinkedList';
 
 function recursivelyReplaceNodeWithNext<T>(node: LinkedList<T>) {
   if (node.next === null) return null;

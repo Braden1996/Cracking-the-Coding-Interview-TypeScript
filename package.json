@@ -40,6 +40,7 @@
     "typescript": "^3.2.4"
   },
   "dependencies": {
-    "@types/node": "^10.12.18"
+    "@types/node": "^10.12.18",
+    "tsconfig-paths-jest": "0.0.1"
   }
 }

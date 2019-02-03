@@ -1,4 +1,4 @@
-import LinkedList from '../utils/LinkedList';
+import LinkedList from '@utils/LinkedList';
 
 export function returnLoopStart<T>(head: LinkedList<T> | null) {
   let slow = head;

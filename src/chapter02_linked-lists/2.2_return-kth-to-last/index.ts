@@ -1,4 +1,4 @@
-import LinkedList from '../utils/LinkedList';
+import LinkedList from '@utils/LinkedList';
 
 export function getKthToLast(list: LinkedList<string>, k: number) {
   let fromLast: number;

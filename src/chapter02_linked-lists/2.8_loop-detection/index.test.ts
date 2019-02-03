@@ -1,6 +1,6 @@
 import each from 'jest-each';
 
-import LinkedList from '../utils/TestFriendlyLinkedList';
+import LinkedList from '@utils/TestFriendlyLinkedList';
 
 import * as solutions from './index';
 

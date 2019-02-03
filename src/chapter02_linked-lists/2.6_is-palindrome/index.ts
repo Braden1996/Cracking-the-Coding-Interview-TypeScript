@@ -1,4 +1,4 @@
-import LinkedList from '../utils/LinkedList';
+import LinkedList from '@utils/LinkedList';
 
 export function isPalindrome(list: LinkedList<number>) {
   let head: typeof list['next'] = list;

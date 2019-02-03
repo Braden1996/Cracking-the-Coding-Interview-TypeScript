@@ -1,4 +1,4 @@
-import LinkedList from '../utils/LinkedList';
+import LinkedList from '@utils/LinkedList';
 
 function getLength<T>(node: LinkedList<T> | null) {
   let count = 0;

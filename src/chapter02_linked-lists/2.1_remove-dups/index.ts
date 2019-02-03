@@ -1,4 +1,4 @@
-import LinkedList from '../utils/LinkedList';
+import LinkedList from '@utils/LinkedList';
 
 export function removeDups(list: LinkedList<string>) {
   let lastNode = list;

@@ -1,4 +1,4 @@
-import LinkedList from '../utils/LinkedList';
+import LinkedList from '@utils/LinkedList';
 
 export function partition(list: LinkedList<number>, pivot: number) {
   let leftListFirst: typeof list['next'] = null;
