@@ -1,6 +1,15 @@
 import LinkedList from './LinkedList';
 
-export default class Queue<T> {
+export interface IQueue<T> {
+  toArray: () => T[];
+  toString: () => string;
+  add: (data: T) => void;
+  remove: () => T | null;
+  peek: () => T | null;
+  isEmpty: () => boolean;
+}
+
+export default class Queue<T> implements IQueue<T> {
   static fromArray<T>(dataArr: T[]) {
     const queue = new Queue<T>();
     dataArr.forEach(d => queue.add(d));
