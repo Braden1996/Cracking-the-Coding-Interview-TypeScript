@@ -1,7 +1,25 @@
+interface INodeJSON<T> {
+  node: T;
+  children?: Array<INodeJSON<T>>;
+}
+
 export class Node<T> {
   children: Array<Node<T>> = [];
   constructor(graph: Graph<T>, public data: T) {
     graph.addNode(this);
+  }
+
+  toString() {
+    return `${this.data}`;
+  }
+
+  toJSON(): INodeJSON<T> {
+    return {
+      node: this.data,
+      ...(this.children.length === 0
+        ? {}
+        : { children: this.children.map(child => child.toJSON()) }),
+    };
   }
 
   findEdges = () => Array.from(this.children);
