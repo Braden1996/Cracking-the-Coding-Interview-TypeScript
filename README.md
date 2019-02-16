@@ -53,7 +53,7 @@
 | ✅ [4.2 - Minimal Tree](src/chapter04_trees-and-graphs/4.2_minimal-tree)               | ❌ 5.2 - Binary to String | ❌ 6.2 - Basketball           |
 | ✅ [4.3 - List of Depths](src/chapter04_trees-and-graphs/4.3_list-of-depths)           | ❌ 5.3 - Flip Bit To Win  | ❌ 6.3 - Dominos              |
 | ✅ [4.4 - Check Balanced](src/chapter04_trees-and-graphs/4.4_check-balanced)           | ❌ 5.4 - Next Number      | ❌ 6.4 - Ants on a Triangle   |
-| ❌ 4.5 - Validate BST                                                                  | ❌ 5.5 - Debugger         | ❌ 6.5 - Jugs of Water        |
+| ✅ [4.5 - Validate BST](src/chapter04_trees-and-graphs/4.5_validate-bst)               | ❌ 5.5 - Debugger         | ❌ 6.5 - Jugs of Water        |
 | ❌ 4.6 - Successor                                                                     | ❌ 5.6 - Conversion       | ❌ 6.6 - Blue-Eyed Island     |
 | ❌ 4.7 - Build Order                                                                   | ❌ 5.7 - Pairwise Swap    | ❌ 6.7 - The Apocalypse       |
 | ❌ 4.8 - First Common Ancestor                                                         | ❌ 5.8 - Draw Line        | ❌ 6.8 - The Egg Drop Problem |
