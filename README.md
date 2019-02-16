@@ -50,7 +50,7 @@
 | Chapter 4                                                                              | Chapter 5                 | Chapter 6                     |
 | -------------------------------------------------------------------------------------- | ------------------------- | ----------------------------- |
 | ✅ [4.1 - Route Between Nodes](src/chapter04_trees-and-graphs/4.1_route-between-nodes) | ❌ 5.1 - Insertion        | ❌ 6.1 - Heavy Pill           |
-| ❌ 4.2 - Minimal Tree                                                                  | ❌ 5.2 - Binary to String | ❌ 6.2 - Basketball           |
+| ✅ [4.2 - Minimal Tree](src/chapter04_trees-and-graphs/4.2_minimal-tree)               | ❌ 5.2 - Binary to String | ❌ 6.2 - Basketball           |
 | ❌ 4.3 - List of Depths                                                                | ❌ 5.3 - Flip Bit To Win  | ❌ 6.3 - Dominos              |
 | ❌ 4.4 - Check Balanced                                                                | ❌ 5.4 - Next Number      | ❌ 6.4 - Ants on a Triangle   |
 | ❌ 4.5 - Validate BST                                                                  | ❌ 5.5 - Debugger         | ❌ 6.5 - Jugs of Water        |
