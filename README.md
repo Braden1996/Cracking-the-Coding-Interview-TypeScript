@@ -55,7 +55,7 @@
 | ✅ [4.4 - Check Balanced](src/chapter04_trees-and-graphs/4.4_check-balanced)           | ❌ 5.4 - Next Number      | ❌ 6.4 - Ants on a Triangle   |
 | ✅ [4.5 - Validate BST](src/chapter04_trees-and-graphs/4.5_validate-bst)               | ❌ 5.5 - Debugger         | ❌ 6.5 - Jugs of Water        |
 | ✅ [4.6 - Successor](src/chapter04_trees-and-graphs/4.6_successor)                     | ❌ 5.6 - Conversion       | ❌ 6.6 - Blue-Eyed Island     |
-| ❌ 4.7 - Build Order                                                                   | ❌ 5.7 - Pairwise Swap    | ❌ 6.7 - The Apocalypse       |
+| ✅ [4.7 - Build Order](src/chapter04_trees-and-graphs/4.7_build-order)                 | ❌ 5.7 - Pairwise Swap    | ❌ 6.7 - The Apocalypse       |
 | ❌ 4.8 - First Common Ancestor                                                         | ❌ 5.8 - Draw Line        | ❌ 6.8 - The Egg Drop Problem |
 | ❌ 4.9 - BST Sequences                                                                 |                           | ❌ 6.9 - 100 Lockers          |
 | ❌ 4.10 - Check Subtree                                                                |                           | ❌ 6.10 - Poison              |
