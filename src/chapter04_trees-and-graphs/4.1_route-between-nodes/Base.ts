@@ -1,8 +1,8 @@
-import Graph, { Node } from '@utils/AdjacencyList';
+import Graph from '@utils/Graph';
 
 abstract class RouteBetween<T> extends Graph<T> {
   abstract isRouteBetween(
-    startNode: Node<T>,
+    startNode: T,
     destinationNode: typeof startNode,
   ): boolean;
 }

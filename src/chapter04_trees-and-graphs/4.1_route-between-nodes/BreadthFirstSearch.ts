@@ -1,9 +1,8 @@
-import { Node } from '@utils/AdjacencyList';
 import Queue from '@utils/Queue';
 import RouteBetween from './Base';
 
 export default class BreadthFirstSearch<T> extends RouteBetween<T> {
-  isRouteBetween(startNode: Node<T>, destinationNode: typeof startNode) {
+  isRouteBetween(startNode: T, destinationNode: typeof startNode) {
     const queue = new Queue<typeof startNode>();
     const visited = new Set<typeof startNode>();
 
@@ -17,7 +16,9 @@ export default class BreadthFirstSearch<T> extends RouteBetween<T> {
       const node = queue.remove();
       if (node === destinationNode) return true;
       if (node !== null) {
-        [...node.children].filter(n => !visited.has(n)).forEach(enqueue);
+        [...this.getOutgoing(node)]
+          .filter(n => !visited.has(n))
+          .forEach(enqueue);
       }
     }
 
