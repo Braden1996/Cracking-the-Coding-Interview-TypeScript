@@ -58,7 +58,7 @@
 | ✅ [4.7 - Build Order](src/chapter04_trees-and-graphs/4.7_build-order)                     | ❌ 5.7 - Pairwise Swap    | ❌ 6.7 - The Apocalypse       |
 | ✅ [4.8 - First Common Ancestor](src/chapter04_trees-and-graphs/4.8_first-common-ancestor) | ❌ 5.8 - Draw Line        | ❌ 6.8 - The Egg Drop Problem |
 | ✅ [4.9 - BST Sequences](src/chapter04_trees-and-graphs/4.9_bst-sequences)                 |                           | ❌ 6.9 - 100 Lockers          |
-| ❌ 4.10 - Check Subtree                                                                    |                           | ❌ 6.10 - Poison              |
+| ✅ [4.10 - Check Subtree](src/chapter04_trees-and-graphs/4.10_check-subtree)               |                           | ❌ 6.10 - Poison              |
 | ❌ 4.11 - Random Node                                                                      |                           |                               |
 | ❌ 4.12 - Paths with Sum                                                                   |                           |                               |
 | <img width="326" />                                                                        | <img width="326" />       | <img width="326" />           |
