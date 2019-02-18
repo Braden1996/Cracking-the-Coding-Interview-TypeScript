@@ -60,7 +60,7 @@
 | ✅ [4.9 - BST Sequences](src/chapter04_trees-and-graphs/4.9_bst-sequences)                 |                           | ❌ 6.9 - 100 Lockers          |
 | ✅ [4.10 - Check Subtree](src/chapter04_trees-and-graphs/4.10_check-subtree)               |                           | ❌ 6.10 - Poison              |
 | ✅ [4.11 - Random Node](src/chapter04_trees-and-graphs/4.11_random-node)                   |                           |                               |
-| ❌ 4.12 - Paths with Sum                                                                   |                           |                               |
+| ✅ [4.12 - Paths with Sum](src/chapter04_trees-and-graphs/4.12_paths-with-sum)             |                           |                               |
 | <img width="326" />                                                                        | <img width="326" />       | <img width="326" />           |
 
 | Chapter 7                   | Chapter 8                          | Chapter 9                           |
