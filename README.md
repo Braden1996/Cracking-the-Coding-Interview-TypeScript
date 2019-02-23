@@ -47,21 +47,21 @@
 | ✅ [1.9 - String Rotation](src/chapter01_arrays-and-strings/1.9_string-rotation)               |                                                                                  |                                                                                   |
 | <img width="326" />                                                                            | <img width="326" />                                                              | <img width="326" />                                                               |
 
-| Chapter 4                                                                                  | Chapter 5                                                          | Chapter 6                     |
-| ------------------------------------------------------------------------------------------ | ------------------------------------------------------------------ | ----------------------------- |
-| ✅ [4.1 - Route Between Nodes](src/chapter04_trees-and-graphs/4.1_route-between-nodes)     | ✅ [5.1 - Insertion](src/chapter05_bit-manipulation/5.1_insertion) | ❌ 6.1 - Heavy Pill           |
-| ✅ [4.2 - Minimal Tree](src/chapter04_trees-and-graphs/4.2_minimal-tree)                   | ❌ 5.2 - Binary to String                                          | ❌ 6.2 - Basketball           |
-| ✅ [4.3 - List of Depths](src/chapter04_trees-and-graphs/4.3_list-of-depths)               | ❌ 5.3 - Flip Bit To Win                                           | ❌ 6.3 - Dominos              |
-| ✅ [4.4 - Check Balanced](src/chapter04_trees-and-graphs/4.4_check-balanced)               | ❌ 5.4 - Next Number                                               | ❌ 6.4 - Ants on a Triangle   |
-| ✅ [4.5 - Validate BST](src/chapter04_trees-and-graphs/4.5_validate-bst)                   | ❌ 5.5 - Debugger                                                  | ❌ 6.5 - Jugs of Water        |
-| ✅ [4.6 - Successor](src/chapter04_trees-and-graphs/4.6_successor)                         | ❌ 5.6 - Conversion                                                | ❌ 6.6 - Blue-Eyed Island     |
-| ✅ [4.7 - Build Order](src/chapter04_trees-and-graphs/4.7_build-order)                     | ❌ 5.7 - Pairwise Swap                                             | ❌ 6.7 - The Apocalypse       |
-| ✅ [4.8 - First Common Ancestor](src/chapter04_trees-and-graphs/4.8_first-common-ancestor) | ❌ 5.8 - Draw Line                                                 | ❌ 6.8 - The Egg Drop Problem |
-| ✅ [4.9 - BST Sequences](src/chapter04_trees-and-graphs/4.9_bst-sequences)                 |                                                                    | ❌ 6.9 - 100 Lockers          |
-| ✅ [4.10 - Check Subtree](src/chapter04_trees-and-graphs/4.10_check-subtree)               |                                                                    | ❌ 6.10 - Poison              |
-| ✅ [4.11 - Random Node](src/chapter04_trees-and-graphs/4.11_random-node)                   |                                                                    |                               |
-| ✅ [4.12 - Paths with Sum](src/chapter04_trees-and-graphs/4.12_paths-with-sum)             |                                                                    |                               |
-| <img width="326" />                                                                        | <img width="326" />                                                | <img width="326" />           |
+| Chapter 4                                                                                  | Chapter 5                                                                        | Chapter 6                     |
+| ------------------------------------------------------------------------------------------ | -------------------------------------------------------------------------------- | ----------------------------- |
+| ✅ [4.1 - Route Between Nodes](src/chapter04_trees-and-graphs/4.1_route-between-nodes)     | ✅ [5.1 - Insertion](src/chapter05_bit-manipulation/5.1_insertion)               | ❌ 6.1 - Heavy Pill           |
+| ✅ [4.2 - Minimal Tree](src/chapter04_trees-and-graphs/4.2_minimal-tree)                   | ✅ [5.2 - Binary to String](src/chapter05_bit-manipulation/5.2_binary-to-string) | ❌ 6.2 - Basketball           |
+| ✅ [4.3 - List of Depths](src/chapter04_trees-and-graphs/4.3_list-of-depths)               | ❌ 5.3 - Flip Bit To Win                                                         | ❌ 6.3 - Dominos              |
+| ✅ [4.4 - Check Balanced](src/chapter04_trees-and-graphs/4.4_check-balanced)               | ❌ 5.4 - Next Number                                                             | ❌ 6.4 - Ants on a Triangle   |
+| ✅ [4.5 - Validate BST](src/chapter04_trees-and-graphs/4.5_validate-bst)                   | ❌ 5.5 - Debugger                                                                | ❌ 6.5 - Jugs of Water        |
+| ✅ [4.6 - Successor](src/chapter04_trees-and-graphs/4.6_successor)                         | ❌ 5.6 - Conversion                                                              | ❌ 6.6 - Blue-Eyed Island     |
+| ✅ [4.7 - Build Order](src/chapter04_trees-and-graphs/4.7_build-order)                     | ❌ 5.7 - Pairwise Swap                                                           | ❌ 6.7 - The Apocalypse       |
+| ✅ [4.8 - First Common Ancestor](src/chapter04_trees-and-graphs/4.8_first-common-ancestor) | ❌ 5.8 - Draw Line                                                               | ❌ 6.8 - The Egg Drop Problem |
+| ✅ [4.9 - BST Sequences](src/chapter04_trees-and-graphs/4.9_bst-sequences)                 |                                                                                  | ❌ 6.9 - 100 Lockers          |
+| ✅ [4.10 - Check Subtree](src/chapter04_trees-and-graphs/4.10_check-subtree)               |                                                                                  | ❌ 6.10 - Poison              |
+| ✅ [4.11 - Random Node](src/chapter04_trees-and-graphs/4.11_random-node)                   |                                                                                  |                               |
+| ✅ [4.12 - Paths with Sum](src/chapter04_trees-and-graphs/4.12_paths-with-sum)             |                                                                                  |                               |
+| <img width="326" />                                                                        | <img width="326" />                                                              | <img width="326" />           |
 
 | Chapter 7                   | Chapter 8                          | Chapter 9                           |
 | --------------------------- | ---------------------------------- | ----------------------------------- |
