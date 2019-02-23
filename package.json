@@ -7,7 +7,7 @@
   "author": "Braden Marshall <braden1996@hotmail.co.uk> (https://github.com/Braden1996)",
   "version": "1.0.0",
   "scripts": {
-    "test:jest": "jest",
+    "test:jest": "jest --maxWorkers=2",
     "test": "run-s test:**",
     "pretest:typecheck": "tsc -p .",
     "pretest:lint": "tslint -t stylish --project .",
