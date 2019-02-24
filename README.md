@@ -55,7 +55,7 @@
 | ✅ [4.4 - Check Balanced](src/chapter04_trees-and-graphs/4.4_check-balanced)               | ✅ [5.4 - Next Number](src/chapter05_bit-manipulation/5.4_next-number)           | ❌ 6.4 - Ants on a Triangle   |
 | ✅ [4.5 - Validate BST](src/chapter04_trees-and-graphs/4.5_validate-bst)                   | ✅ [5.5 - Debugger](src/chapter05_bit-manipulation/5.5_debugger)                 | ❌ 6.5 - Jugs of Water        |
 | ✅ [4.6 - Successor](src/chapter04_trees-and-graphs/4.6_successor)                         | ✅ [5.6 - Conversion](src/chapter05_bit-manipulation/5.6_conversion)             | ❌ 6.6 - Blue-Eyed Island     |
-| ✅ [4.7 - Build Order](src/chapter04_trees-and-graphs/4.7_build-order)                     | ❌ 5.7 - Pairwise Swap                                                           | ❌ 6.7 - The Apocalypse       |
+| ✅ [4.7 - Build Order](src/chapter04_trees-and-graphs/4.7_build-order)                     | ✅ [5.7 - Pairwise Swap](src/chapter05_bit-manipulation/5.7_pairwise-swap)       | ❌ 6.7 - The Apocalypse       |
 | ✅ [4.8 - First Common Ancestor](src/chapter04_trees-and-graphs/4.8_first-common-ancestor) | ❌ 5.8 - Draw Line                                                               | ❌ 6.8 - The Egg Drop Problem |
 | ✅ [4.9 - BST Sequences](src/chapter04_trees-and-graphs/4.9_bst-sequences)                 |                                                                                  | ❌ 6.9 - 100 Lockers          |
 | ✅ [4.10 - Check Subtree](src/chapter04_trees-and-graphs/4.10_check-subtree)               |                                                                                  | ❌ 6.10 - Poison              |
