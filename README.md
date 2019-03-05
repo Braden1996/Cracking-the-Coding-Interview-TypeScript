@@ -68,7 +68,7 @@
 | ✅ [7.1 - Deck of Cards](src/chapter07_object-oriented-design/7.1_deck-of-cards) | ❌ 8.1 - Triple Step               | ❌ 9.1 - Stock Data                 |
 | ✅ [7.2 - Call Center](src/chapter07_object-oriented-design/7.2_call-center)     | ❌ 8.2 - Robot in a Grid           | ❌ 9.2 - Social Network             |
 | ✅ [7.3 - Jukebox](src/chapter07_object-oriented-design/7.3_jukebox)             | ❌ 8.3 - Magic Index               | ❌ 9.3 - Web Crawler                |
-| ❌ 7.4 - Parking Lot                                                             | ❌ 8.4 - Power Set                 | ❌ 9.4 - Duplicate URLs             |
+| ✅ [7.4 - Parking Lot](src/chapter07_object-oriented-design/7.4_parking-lot)     | ❌ 8.4 - Power Set                 | ❌ 9.4 - Duplicate URLs             |
 | ❌ 7.5 - Online Book Reader                                                      | ❌ 8.5 - Recursive Multiply        | ❌ 9.5 - Cache                      |
 | ❌ 7.6 - Jigsaw                                                                  | ❌ 8.6 - Towers of Hanoi           | ❌ 9.6 - Sales Rank                 |
 | ❌ 7.7 - Chat Server                                                             | ❌ 8.7 - Permutations without Dups | ❌ 9.7 - Personal Financial Manager |
