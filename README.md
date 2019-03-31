@@ -78,7 +78,7 @@
 | ❌ 7.11 - File System                                                            | ✅ [8.11 - Coins](src/chapter08_recursion-and-dynamic-programming/8.11_coins)                                       |                                     |
 | ❌ 7.12 - Hash Table                                                             | ✅ [8.12 - Eight Queens](src/chapter08_recursion-and-dynamic-programming/8.12_eight-queens)                         |                                     |
 | ❌ 7.11 - File System                                                            | ✅ [8.13 - Stack Boxes](src/chapter08_recursion-and-dynamic-programming/8.13_stack-of-boxes)                        |                                     |
-| ❌ 7.12 - Hash Table                                                             | ❌ 8.14 - Boolean Eval                                                                                              |                                     |
+| ❌ 7.12 - Hash Table                                                             | ✅ [8.14 - Boolean Evaluation](src/chapter08_recursion-and-dynamic-programming/8.14_boolean-evaluation)             |                                     |
 | <img width="326" />                                                              | <img width="326" />                                                                                                 | <img width="326" />                 |
 
 | Chapter 10                        |                     |                     |
